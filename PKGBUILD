@@ -1,4 +1,4 @@
-pkgname=mobirise-beta
+pkgname=mobirise
 pkgver=last
 pkgrel=1
 pkgdesc="Create awesome mobile-friendly websites! No coding and free."
@@ -6,7 +6,7 @@ arch=('x86_64')
 url="https://mobirise.com"
 license=('Free')
 options=('!strip' '!emptydirs')
-source=("https://download.mobirise.com/beta/mobirise5beta-setup.deb")
+source=("https://download.mobirise.com/MobiriseSetup.deb")
 sha512sums=('SKIP')
 
 package(){
