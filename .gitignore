@@ -88,3 +88,5 @@ src/control.tar.gz
 src/data.tar.xz
 src/debian-binary
 src/mobirise5beta-setup.deb
+mobirise-last-1-x86_64.pkg.tar.zst
+MobiriseSetup.deb
