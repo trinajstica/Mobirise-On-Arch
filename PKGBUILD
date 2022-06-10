@@ -6,7 +6,8 @@ arch=('x86_64')
 url="https://mobirise.com"
 license=('Free')
 options=('!strip' '!emptydirs')
-source=("https://download.mobirise.com/MobiriseSetup.deb")
+#source=("https://download.mobirise.com/MobiriseSetup.deb")
+source=("https://download.mobirise.com/beta/mobirise5beta-setup.deb")
 sha512sums=('SKIP')
 
 package(){

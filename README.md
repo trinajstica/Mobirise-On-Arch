@@ -1,5 +1,5 @@
 # Mobirise-On-Arch
-Mobirise On Arch Based Distrost
+Mobirise On Arch Based Distros
 
 1) download PKGBUILD & install.sh
 2) open terminal where are downloaded files
